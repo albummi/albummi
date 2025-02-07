@@ -10,7 +10,9 @@
 
 Future:
 2. Create own integration for enjoy the wood LED world map
+
 3. Create a alarm cock integration
+   
 4. Create a enitity card with timer 
 
 <!--
