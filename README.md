@@ -9,6 +9,7 @@
   - adding door open / window open temperature instead of heater off only -> planned
 
 Future:
+
 2. Create own integration for enjoy the wood LED world map
 
 3. Create a alarm cock integration
