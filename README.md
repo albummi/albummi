@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on HomeAssistent related Stuff:
 
 1. Adding more functions to BetterThermostat from KartoffelToby
-  - adding door sensors -> Pull request done
-  - adding possibility to add multiple door and window sensors -> in progress
-  - adding Main Heater Switch, Door / Window overwrite switch, Sleep Mode Switch -> planned
-  - adding door open / window open temperature instead of heater off only -> planned
+  -   adding door sensors -> Pull request done
+  -   adding possibility to add multiple door and window sensors -> in progress
+  -   adding Main Heater Switch, Door / Window overwrite switch, Sleep Mode Switch -> planned
+  -   adding door open / window open temperature instead of heater off only -> planned
 
 Future:
 
