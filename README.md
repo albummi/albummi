@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on HomeAssistent related Stuff:
+
+1. Adding more functions to BetterThermostat from KartoffelToby
+  - adding door sensors -> Pull request done
+  - adding possibility to add multiple door and window sensors -> in progress
+  - adding Main Heater Switch, Door / Window overwrite switch, Sleep Mode Switch -> planned
+  - adding door open / window open temperature instead of heater off only -> planned
+
+Future:
+2. Create own integration for enjoy the wood LED world map
+3. Create a alarm cock integration
+4. Create a enitity card with timer 
+
+
+
